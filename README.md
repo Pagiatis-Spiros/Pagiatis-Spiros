@@ -1,7 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pagiatis Spiros
 =======================================================================================================================================
 
-Vocational High School: Αutomation electronics IEK: Visual and audio systems electronics BSc: Computer Science (EAP) MSc: Pervasive and Mobile Computing Systems (EAP 2023 - ) I'm currently working as electronic techicial at telecomunications (smartphones, tablets, laptops etc and automation systems)
+<pre>
+Vocational High School: Αutomation electronics 
+IEK: Visual and audio systems electronics 
+BSc: Computer Science (EAP) 
+MSc: Pervasive and Mobile Computing Systems (EAP 2023 - ) 
+</pre>
+
+<pre>
+I'm currently working as electronic techicial at telecomunications 
+(smartphones, tablets, laptops etc and automation systems)
+</pre>
 
 * 🌍  I'm based in Greece
 * 🖥️  See my portfolio at [Electronics assistant](http://digilabcfu.weebly.com/betaomicronetathetaetamualphataualpha.html)
@@ -24,5 +34,3 @@ Vocational High School: Αutomation electronics IEK: Visual and audio systems el
 <a href="http://www.github.com/Pagiatis-Spiros"><img src="https://github-readme-stats.vercel.app/api?username=Pagiatis-Spiros&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pagiatis-Spiros's GitHub stats" /></a>
 
 <a href="http://www.github.com/Pagiatis-Spiros"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pagiatis-Spiros&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Pagiatis-Spiros" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pagiatis-Spiros&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
