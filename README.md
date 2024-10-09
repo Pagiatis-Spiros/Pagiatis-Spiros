@@ -9,7 +9,7 @@ MSc: Pervasive and Mobile Computing Systems (EAP 2023 - )
 </pre>
 
 <pre>
-I'm currently working as electronic techicial at telecomunications 
+I'm currently working as electronic techicial in telecomunications 
 (smartphones, tablets, laptops etc and automation systems)
 </pre>
 
