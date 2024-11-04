@@ -11,8 +11,7 @@ MSc: Pervasive and Mobile Computing Systems (EAP 2023 - )
 
 * I'm currently working as 
 <pre>
-technical in telecomunications (smartphones, tablets, laptops etc) 
-and automation systems
+technical in telecomunications and automation systems
 </pre>
 
 * 🌍  I'm based in Greece, Corfu
